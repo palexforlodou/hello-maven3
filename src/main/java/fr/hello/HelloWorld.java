@@ -12,12 +12,13 @@ public class HelloWorld {
 		 * hhh
 		 */
 		
-		String message = "Hello Maven World";
+		/**String message = "Hello Maven World";
 		*Afficher A = new Afficher( );
 		A.display(message) ;
-		
-		/**System.out.println(message);
 		*/
+		
+		System.out.println(message);
+		
 
 	}
 
