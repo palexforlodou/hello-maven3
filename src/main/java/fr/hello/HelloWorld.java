@@ -13,8 +13,10 @@ public class HelloWorld {
 		 */
 		
 		String message = "Hello Maven World";
-		Afficher A = new Afficher( );
+		/**Afficher A = new Afficher( );
 		A.display(message) ;
+		*/
+		System.out.println(message);
 
 	}
 
